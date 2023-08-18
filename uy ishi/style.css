@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: white;
+}
+.boxsizing{
+    margin-left: 240px;
+    margin-top: 120px;
+}
+.box{
+    .but{
+        margin-top: 20px;
+        width: 100px;
+        height:100px;
+    }
+    background-color: white;
+    border: 2px solid black;
+    width: 300px;
+    height: 500px;
+    display: inline-block;
+    margin: 20px;
+    text-align: center;
+    border-radius: 3px;
+}
+.box1{
+    background-color: rgb(244, 15, 91);
+}
+.color{
+ width: 100%;
+}
+h2{
+    margin-top: 15px;
+    letter-spacing: normal;
+}
+h4{
+    margin-top: 13px;
+    text-align: center;;
+    word-spacing: 5px;
+}
+.knopka{
+    width: 280px;
+    height: 40px;
+    color:white;
+    background-color: black;
+    border-radius: 50px;
+    margin-top: 40px;
+}
